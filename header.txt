@@ -1,0 +1,4 @@
+(c) 2024 Joscha Egloff
+Welcome to the text writer!
+
+Type ? for help.

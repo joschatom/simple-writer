@@ -1,0 +1,9 @@
+Hello Worldprint("Hello World!")
+
+ :)
+
+ It works!
+ Now save it.
+In Python:
+
+It messed it up... ;)
