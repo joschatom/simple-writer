@@ -3,7 +3,7 @@ This is a simple text editor written in Rust. It is designed to be used in a ter
 
 ## Summary
 This is a simple text editor written in Rust. It is designed to be used in a terminal. It is licensed under the MIT license. See the LICENSE file for more information.
-It is fast and easy to use. It is also minimal and lightweight. ~~No useless stuff like a GUI or syntax highlighting. Just a simple text editor.~~ ;)
+It is fast and easy to use. It is also minimal and lightweight. ~~No useless stuff like a GUI or syntax highlighting.~~ Just a simple text editor. ;)
 
 ## Usage
 ```text
