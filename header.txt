@@ -1,4 +1,13 @@
-(c) 2024 Joscha Egloff
-Welcome to the text writer!
+(c) 2024 Joscha Egloff. This is free Software.
 
-Type ? for help.
+╔══════════════════════════════════════════╗
+║                                          ║
+║                                          ║
+║    Welcome to THE Text Writer!           ║
+║                                          ║
+║    Version: {version}                        ║
+║                                          ║
+║    Type ? for help.                      ║
+║                                          ║
+║                                          ║
+╚══════════════════════════════════════════╝
